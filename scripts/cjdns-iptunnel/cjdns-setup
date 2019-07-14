@@ -4,7 +4,7 @@
 # But if not we can uncomment this sleep line
 # sleep 8
 
-SUBNET4="10.1.0."
+SUBNET4="192.168.4."
 SUBNET6="fe80::"
 
 # Enable forwarding for ipv4 and ipv6
